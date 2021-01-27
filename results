@@ -1,0 +1,4 @@
+ssh -i /tmp/user_key user@1.1.1.1
+ls | grep ' '
+sort -u /tmp/test_mission/startwars_robots_contacts | grep -v '^$'
+
